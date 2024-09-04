@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkvba&label=Profile%20views&color=0e75b6&style=flat" alt="imkvba" /> </p>
-![Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c55412d3030303037433f7374796c653d666c6174266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465.svg…]()
 
 - 🔭 I’m currently working on **Fivem Server**
 
@@ -22,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imkvba&show_icons=true&locale=en" alt="imkvba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkvba&" alt="imkvba" /></p>
